@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8"/>
+<link rel="stylesheet" href="index.css">
+
+<title>projeto 1</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <div class="opcoes">
+            <button class="opcoes">=</button>
+        </div>
+    </header>
+    <div>
+        <p class="descricao">qualitti \ valzinho</p>
+        <p class="disp">dispositivos</p>
+        <button class="opcoesdapagina">linhas</button>
+    </div>
+    <section class="container 1">
+
+    </section>
+
+
+</body>
+</html>
+
+
+
+
+.descricao {
+    color: rgb(63, 63, 203);
+    font-family: "Crimson Text", "Times new roman", serif;
+    font-size: 120%;
+    line-height: 1.5;
+}
+.disp {
+    font-family: "Crimson Text", "Times new roman", serif;
+    color: black;
+    font-size: 120%;
+    line-height: 1.5;
+    position: relative;
+    top: -48px;
+    left: 11%;
